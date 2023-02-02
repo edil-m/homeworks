@@ -39,7 +39,7 @@ class FirstPage extends StatelessWidget {
           children: [
             Image.asset("assets/Hi.png"),
             const SizedBox(
-              height: 113,
+              height: 112,
             ),
             const Text(
               'Welcom!',
